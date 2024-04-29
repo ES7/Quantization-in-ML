@@ -5,3 +5,5 @@ Large generative AI models like LLMs can be so huge that they are hard to run on
 
 **2. `Loading_Models_in_different_dtypes.ipynb`:** In this notebook I have explained how we can load models in different data types to save memory and what are its effects on the model's performace.
 
+**3. `Quantization_Theory.ipynb`:** In this notebook I have explained how to apply linear quantization to any model and the maths behind it.
+
