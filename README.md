@@ -1,1 +1,2 @@
 # Quantization-in-ML
+Large generative AI models like LLMs can be so huge that they are hard to run on consumer grade hardware. Quantization has emerged as a key tool for making this possible. How to decide whether we should use int8 or float16 to compress the model? AI models are getting bigger and bigger, so quantization has been recently exciting for the AI community because it enables us to shrink models to a small size, so that anyone can run it with their own computer with little to no performance degradation.
