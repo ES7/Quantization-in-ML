@@ -7,3 +7,10 @@ Large generative AI models like LLMs can be so huge that they are hard to run on
 
 **3. `Quantization_Theory.ipynb`:** In this notebook I have explained how to apply linear quantization to any model and the maths behind it.
 
+**4. `Linear_Quantization.ipynb`:** In this notebook I have explained linear quantization in depth.
+
+**5. `Scale_&_Zero_Point.ipynb`:** In this notebook I have explained how you can get the value of scale and zero point.
+
+**6. `Symmetric_VS_Asymmetric.ipynb`:** In this notebook I have explained the two modes of linear quantization: symmetric and asymmetric.
+
+**7. `Per_Channel_&_Per_Group_Quantization.ipynb`:** In this notebook I have explained how to perform per channel and per group quantization.
