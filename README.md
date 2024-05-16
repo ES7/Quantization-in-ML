@@ -13,4 +13,4 @@ Large generative AI models like LLMs can be so huge that they are hard to run on
 
 **6. `Symmetric_VS_Asymmetric.ipynb`:** In this notebook I have explained the two modes of linear quantization: symmetric and asymmetric.
 
-**7. `Per_Channel_&_Per_Group_Quantization.ipynb`:** In this notebook I have explained how to perform per channel and per group quantization.
+**7. `Per_Channel_&_Per_Group_Quantization.ipynb`:** In this notebook I have explained how to perform per channel and per group quantization also how to quantize weights and activations.
