@@ -20,3 +20,5 @@ Large generative AI models like LLMs can be so huge that they are hard to run on
 **9. `Quantize_HF_Models.ipynb`:** In this notebook I have explained how we can quantize any open source PyTorch based models.
 
 **10. `Load_Quantized_Weights_from_HF_Hub.ipynb`:** In this notebook I have explained how we directly load the quantize model from the Hugging Face Hub.
+
+**11. `Packing_Unpacking_Weights.ipynb`:** In this notebook I have explained how we pack and unpack weights which is useful when we can store a parameter in 2-bit precision but PyTorch doesn't support it.
