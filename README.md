@@ -18,3 +18,5 @@ Large generative AI models like LLMs can be so huge that they are hard to run on
 **8. `Build_Custom_8-Bit_Quantizer.ipynb`:** In this notebook I have explained how to build our own quantizer pipeline that can quantize any model in 8-bit precision via per channel quantization.
 
 **9. `Quantize_HF_Models.ipynb`:** In this notebook I have explained how we can quantize any open source PyTorch based models.
+
+**10. `Load_Quantized_Weights_from_HF_Hub.ipynb`:** In this notebook I have explained how we directly load the quantize model from the Hugging Face Hub.
